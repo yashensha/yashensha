@@ -7,5 +7,7 @@
   <a href="https://gitstats.me/yashensha">
     <img width="500" height="auto" align="left" alt="Yashensha github stats" 
          src="https://github-readme-stats.vercel.app/api?username=yashensha&show_icons=true&theme=algolia&count_private=true" />
+   
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashensha&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/yashensha)
  
   </a>
